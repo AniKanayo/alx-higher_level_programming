@@ -6,3 +6,6 @@
 class Square:
     """Represent a square."""
     pass
+text2
+text1
+text1
