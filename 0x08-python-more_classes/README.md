@@ -3,7 +3,17 @@ Resources
 Read or watch:
 
 Object Oriented Programming (Read everything until the paragraph “Inheritance” (excluded))
+<<<<<<< HEAD
 Object-Oriented Programming (Please be careful: in most of the following paragraphs, the author shows the way you should not use or write a class, in order to help you better understand some concepts and how everything works in Python 3. Make sure you read only the following paragraphs: “General Introduction,” “First-class Everything,” “A Minimal Class in Python,” “Attributes,” “Methods,” “The __init__ Method,” “Data Abstraction, Data Encapsulation, and Information Hiding,” “__str__- and __repr__-Methods,” “Public- Protected- and Private Attributes,” & “Destructor”)
+=======
+Object-Oriented Programming (Please be careful: in most of the following paragraphs,
+the author shows the way you should not use or write a class, in order to help you
+better understand some concepts and how everything works in Python 
+3. Make sure you read only the following paragraphs: “General Introduction,”
+ “First-class Everything,” “A Minimal Class in Python,” “Attributes,” “Methods,”
+ “The __init__ Method,” “Data Abstraction, Data Encapsulation, and Information
+ Hiding,” “__str__- and __repr__-Methods,” “Public- Protected- and Private Attributes,” & “Destructor”)
+>>>>>>> 184c4803d6654b071e50db626403fcaae374ec37
 Class and Instance Attributes
 classmethods and staticmethods
 Properties vs. Getters and Setters (Mainly the last part “Public instead of Private Attributes”)
@@ -38,11 +48,14 @@ How to bind attributes to object and classes
 What is and what does contain __dict__ of a class and of an instance of a class
 How does Python find the attributes of an object or class
 How to use the getattr function
+<<<<<<< HEAD
 Copyright - Plagiarism
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
+=======
+>>>>>>> 184c4803d6654b071e50db626403fcaae374ec37
 
 Requirements
 General
@@ -54,4 +67,7 @@ A README.md file, at the root of the folder of the project, is mandatory
 Your code should use the pycodestyle (version 2.8.*)
 All your files must be executable
 The length of your files will be tested using wc
+<<<<<<< HEAD
 
+=======
+>>>>>>> 184c4803d6654b071e50db626403fcaae374ec37
