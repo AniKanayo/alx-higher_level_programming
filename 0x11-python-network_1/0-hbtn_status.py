@@ -1,14 +1,9 @@
 #!/usr/bin/python3
-"""
-Script that fetches https://alx-intranet.hbtn.io/status
-"""
+"""Script that fetches https://alx-intranet.hbtn.io/status"""
 import urllib.request
 
-
 def main():
-    """
-    Funtion to print a response of a specific url
-    """
+    """Funtion to print a response of a specific url"""
     url = 'https://alx-intranet.hbtn.io/status'
     with urllib.request.urlopen(url) as response:
         html = response.read()
