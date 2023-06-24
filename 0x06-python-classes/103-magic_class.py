@@ -1,4 +1,6 @@
+"""Python class MagicClass that does exactly the same as the Python bytecode"""
 import math
+
 
 class MagicClass:
     def __init__(self, radius):
